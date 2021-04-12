@@ -1,3 +1,5 @@
+// 基础部分
+
 // 常量和变量
 let max = 10
 var current = 0
